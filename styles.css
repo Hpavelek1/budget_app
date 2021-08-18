@@ -1,0 +1,57 @@
+body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background-color: rgba(18, 190, 212, 0.288);
+
+}
+
+main{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+
+}
+
+section{
+    margin-bottom: 30px;
+
+}
+
+h1{
+    font-size: 2em;
+    margin-bottom:0px;
+
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    height: 32px;
+    border-radius: 4px;
+    border: 1px solid rgb(63, 226, 218);
+    font-family: inherit;
+    font-size: 1em;
+    padding: 10px;
+
+}
+
+button{
+    padding: 14px 24px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(34, 124, 165);
+    color: white
+}
+
+button:hover{
+    color: maroon;
+    background-color: rgb(12, 159, 204);
+}
+
+.red{
+    color: orangered;
+}
+
+.green{
+    color: green;
+}
